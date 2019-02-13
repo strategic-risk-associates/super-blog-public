@@ -49,6 +49,6 @@ bundle exec rubocop
 
 2) We will work together to fix all the tests
 
-3) Open up BUGS.md.  We'll discuss how to attack these and if there's enough time implement fixes.
+3) Open up BUGS.md.  We'll discuss how to attack these and implement fixes.
 
-4) Open up TODO.md.  We'll note what could be improved in this app.
+4) You pick a new feature of your choosing to work on.  You can come up with your own idea or pick one from TODO.md.  It's OK if we don't finish the feature.
