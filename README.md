@@ -5,7 +5,7 @@ Make sure you are able to run the server and system tests prior to our pairing s
 
 ### Setup
 
-* Install ruby 2.5.1.  If using [rbenv](https://github.com/rbenv/rbenv) then `rbenv install 2.5.1`
+* Install ruby 2.5.9.  If using [rbenv](https://github.com/rbenv/rbenv) then `rbenv install 2.5.9`
 * Install [bundler](https://bundler.io/). `gem install bundler`
 * Install dependencies for this application: `bundle install`
 * Install Google Chrome which is used in the system tests
